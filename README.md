@@ -51,7 +51,7 @@ My work is focused on **clean architecture**, **scalable systems**, and **except
 - 💡 Focused on **clean, reusable, and well-documented code**  
 - 📈 Optimized systems to handle **thousands of concurrent transactions** efficiently  
 - 🌍 Contributed to **multi-language systems** (20+ locales) with database translation handling  
-- 🧾 Delivered **accounting, HRM, POS, and inventory systems** used by 2000+ clients worldwide
+- 🧾 Delivered **accounting, HRM, POS, and inventory systems** 
 
 ---
 
